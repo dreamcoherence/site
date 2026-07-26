@@ -1,0 +1,7 @@
+{
+  "name": "dreamcoherence-site",
+  "private": true,
+  "dependencies": {
+    "jsdom": "^29.1.1"
+  }
+}
